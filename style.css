@@ -41,5 +41,6 @@
 }
 .item-6{
     background-color: rgb(69, 230, 230);
-    grid-row: 3 / 4;
+    grid-column: 1 / span 3;
+    grid-row: 3 / 4 ;
 }
